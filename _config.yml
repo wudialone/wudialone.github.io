@@ -12,16 +12,10 @@ enableTags: true
 tagarray: []
 
 social:
-    - icon: fa-facebook
-      link: "#"
     - icon: fa-twitter
       link: "https://twitter.com/wud_sq"
     - icon: fa-github
       link: "https://github.com/wud_sq"
-
-# share:
-#   twitter_username: agusmakmun6
-#   fb_appid: 1749788565247320
 
 urls:
     - text: About Me
