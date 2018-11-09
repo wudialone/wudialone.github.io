@@ -8,9 +8,8 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-$base-font-family: 'KoPub Batang'
 
-@font-face {
+  @font-face {
     font-family: 'KoPub Batang';
     font-style: normal;
     font-weight: 300;
@@ -54,6 +53,7 @@ body {
 }
 
 
+$base-font-family: 'KoPub Batang';
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
