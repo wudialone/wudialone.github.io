@@ -10,11 +10,6 @@ avatar_url: /static/img/avatar.jpg
 enableTags: true
 tagarray: []
 
-collections:
-  project:
-    output: true
-    permalink: /project/:path/
-
 social:
     - icon: fa-facebook
       link: "#"
@@ -34,8 +29,6 @@ share:
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
     - text: XML Feed
       url: /feed.xml
 
