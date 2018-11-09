@@ -31,8 +31,6 @@ urls:
       url: /about/
     - text: XML Feed
       url: /feed.xml
-    - text: tags
-      url: /tags
     - text: category_name
       url: /category/category_name
 
