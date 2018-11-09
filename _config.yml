@@ -26,10 +26,11 @@ social:
 urls:
     - text: About Me
       url: /about/
-    - text: XML Feed
-      url: /feed.xml
     - text: Category
       url: /category/category
+    - text: XML Feed
+      url: /feed.xml
+
 
 url: "https://wud_sq.github.io"
 baseurl: ""
