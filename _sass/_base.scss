@@ -37,6 +37,11 @@ dl, dd, ol, ul, figure {
          url(//cdn.jsdelivr.net/font-kopub/1.0/KoPubBatang-Bold.ttf) format('truetype');
   }
 
+
+
+  $base-font-family: 'KoPub Batang';
+
+
 /**
  * Basic styling
  */
@@ -51,9 +56,6 @@ body {
     font-feature-settings: "kern" 1;
     font-kerning: normal;
 }
-
-
-$base-font-family: 'KoPub Batang';
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
