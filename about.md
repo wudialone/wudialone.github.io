@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+Underground Researcher. 
+(Marxian Economics, Econometrics)
 
-email: agus[at]python.web.id
+email: wudialone[at]gmail.com

@@ -28,8 +28,8 @@ urls:
       url: /about/
     - text: XML Feed
       url: /feed.xml
-    - text: category_name
-      url: /category/category_name
+    - text: Category
+      url: /category/category
 
 url: "https://wud_sq.github.io"
 baseurl: ""
